@@ -11,7 +11,7 @@ HTML = """
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<title>Smart Patient Card</title>
+<title>Carte Patient Intelligente</title>
 
 <style>
 body {
@@ -118,7 +118,7 @@ button {
 
 <div class="container">
 
-<h1>🏥 Smart Patient Card</h1>
+<h1>🏥 Carte Patient Intelligente</h1>
 
 {% if not patient %}
 <div class="search">
